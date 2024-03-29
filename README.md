@@ -60,6 +60,6 @@ A fullstack web application created for a real customer, centralizing orders fro
 
 
 
-### Thank you for looking have a great day!
+### Thank you for looking and have a great day!
 
 
