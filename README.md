@@ -42,8 +42,8 @@ A 24-hour solo project created for my third-semester exam, featuring a hotel boo
 
 #### Popcorntime
 A fullstack web application that works as a cinema booking system.
-- [![Frontend Repo](https://img.shields.io/badge/Frontend-Repo-purple?style=flat-square&logo=github)](https://github.com/UlrikLn/popcorntime_FE)
-- [![Backend Repo](https://img.shields.io/badge/Backend-Repo-purple?style=flat-square&logo=github)](https://github.com/UlrikLn/popcorntime_BE)
+- [![Frontend Repo](https://img.shields.io/badge/Frontend-Repo-purple?style=flat-square&logo=github)](https://github.com/ProjektGruppe23/FE-PopcornTime)
+- [![Backend Repo](https://img.shields.io/badge/Backend-Repo-purple?style=flat-square&logo=github)](https://github.com/ProjektGruppe23/BE-PopcornTime)
 
 #### OpskriftOasen
 A fullstack web application incorporating ChatGPT, generating specific recipes for your meal.
@@ -51,8 +51,8 @@ A fullstack web application incorporating ChatGPT, generating specific recipes f
 
 #### OrderProject
 A fullstack web application created for a real customer, centralizing orders from different selling platforms.
-- [![Frontend Repo](https://img.shields.io/badge/Frontend-Repo-purple?style=flat-square&logo=github)](https://github.com/UlrikLn/orderproject_FE)
-- [![Backend Repo](https://img.shields.io/badge/Backend-Repo-purple?style=flat-square&logo=github)](https://github.com/UlrikLn/orderproject_BE)
+- [![Frontend Repo](https://img.shields.io/badge/Frontend-Repo-purple?style=flat-square&logo=github)](https://github.com/ProjektGruppe23/OrderProject-FE)
+- [![Backend Repo](https://img.shields.io/badge/Backend-Repo-purple?style=flat-square&logo=github)](https://github.com/ProjektGruppe23/OrderProject-BE))
 - [![Project Overview](https://img.shields.io/badge/Project-Overview-red?style=flat-square&logo=adobeacrobatreader)](https://github.com/UlrikLn/orderproject_overview)
 
 #### Feel free to check out more of my repositories for a deeper dive into my coding adventures!
